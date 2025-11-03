@@ -1,0 +1,7 @@
+---
+title: "test-article-rmd"
+---
+
+```{r setup}
+fs::path_rel(getwd(), here::here())
+```

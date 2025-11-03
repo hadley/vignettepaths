@@ -1,0 +1,12 @@
+---
+title: "test-vignette-rmd"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{test-vignette-rmd}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup}
+fs::path_rel(getwd(), here::here())
+```

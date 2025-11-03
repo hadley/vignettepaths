@@ -1,0 +1,7 @@
+---
+title: "test-article-qmd"
+---
+
+```{r setup}
+fs::path_rel(getwd(), here::here())
+```
