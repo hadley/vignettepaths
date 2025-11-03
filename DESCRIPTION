@@ -18,3 +18,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/hadley/vignettepaths
+BugReports: https://github.com/hadley/vignettepaths/issues
